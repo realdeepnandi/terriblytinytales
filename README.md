@@ -18,6 +18,25 @@ The result data is stored in an array and passed to display.pug.
 <img src="https://cdn.discordapp.com/attachments/797498334133616701/825354249265217566/carbon_1.png" width="540px">
 Then the array passed to the dispaly.pug file is displayed in a tabular structure with foreach loop.
 
+# Test Cases
+
+## Test Case 1
+
+### Data passed : `5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50`
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825357075613876245/unknown.png" width="540px">
+
+### Output
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825357706108862494/unknown.png" width="540px">
+
+## Test Case 2
+
+### Data passed : `128`
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825358054480150578/unknown.png" width="540px">
+
+### Output
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825358126970306570/unknown.png" width="540px">
+
+
 # Libraries and Plugins 
 
 * Node.js
