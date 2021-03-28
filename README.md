@@ -46,3 +46,4 @@ Then the array passed to the dispaly.pug file is displayed in a tabular structur
 * Expressjs
 * Pug
 * body-parser
+* node-fetch
