@@ -3,7 +3,7 @@
 * Clone the repository `git clone https://github.com/realdeepnandi/terriblytinytales.git`
 * Change the directory `cd terriblytinytales`
 * Run the server `npm start`
-* The server is running at [localhost:3001](http://localhost:3001)
+* The server is running at [localhost:3000](http://localhost:3000)
 
 # Components of the code
 
