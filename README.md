@@ -37,7 +37,7 @@ Then the array passed to the dispaly.pug file is displayed in a tabular structur
 <img src="https://cdn.discordapp.com/attachments/797498334133616701/825358054480150578/unknown.png" width="540px">
 
 ### Output
-<img src="https://cdn.discordapp.com/attachments/797498334133616701/825358126970306570/unknown.png" width="540px">
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825662499860643850/unknown.png" width="540px">
 
 
 # Libraries and Plugins 
