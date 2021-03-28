@@ -29,7 +29,7 @@ Then the array passed to the dispaly.pug file is displayed in a tabular structur
 <img src="https://cdn.discordapp.com/attachments/797498334133616701/825357075613876245/unknown.png" width="540px">
 
 ### Output
-<img src="https://cdn.discordapp.com/attachments/797498334133616701/825357706108862494/unknown.png" width="540px">
+<img src="https://cdn.discordapp.com/attachments/797498334133616701/825662066706350090/unknown.png" width="540px">
 
 ## Test Case 2
 
