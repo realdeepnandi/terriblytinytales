@@ -24,7 +24,9 @@ app.get('/testAPI/', (req, res) => {
                 var r = await fetch('https://terriblytinytales.com/testapi?rollnumber=' + roll[i]);
                 var text = await r.text();
                 arr.push({ "rollno": roll[i], "result": text });
+                console.log({ "rollno": roll[i], "result": text });
             }
+            console.log("==========Results Published===========");
             res.render('display', { items: arr });
 
         }
